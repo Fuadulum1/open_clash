@@ -222,6 +222,7 @@ payload:
   - DOMAIN-SUFFIX,ttlivecdn.com
   - DOMAIN-SUFFIX,ttlivecdn.com.c.worldfcdn.com
   - DOMAIN-SUFFIX,ttoversea.net
+  - IP-CIDR,154.223.0.0/16
 # > Tinder
   - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tinder.com
